@@ -123,8 +123,8 @@ https://www.linkedin.com/in/khaledur-rahman-873831180/
 
 ### image sytax
 
-<!-- ![profile](./images/me.jpg) -->
-<img src="./image/image.JPG" width="400" title="profile image"/>
+<!-- ![profile](./images/image.jpg) -->
+<img src="./image/image.jpg" width="400" title="profile image"/>
 😊
 
 <br/>
