@@ -3,5 +3,3 @@ This is new line.
 Change for branching.
 This line for local branching.
 This is for frist branching.
-this 3 master
-this 4 master
